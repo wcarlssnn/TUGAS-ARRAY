@@ -2,7 +2,7 @@
 Array adalah struktur data yang digunakan untuk menyimpan banyak nilai dalam satu variabel. Di Python, array biasanya disebut sebagai *list*. Contohnya seperti `nilai = [80, 75, 90]`. Dengan menggunakan array, data dapat diolah dengan lebih mudah, misalnya untuk mencari nilai tertinggi, terendah, atau rata-rata. Array juga memiliki indeks yang dimulai dari 0, sehingga setiap data bisa diakses berdasarkan posisinya. Secara sederhana, array membantu kita mengelola banyak data sekaligus dengan lebih rapi dan efisien.
 
 
-Analisis Kelebihan dan Kekurangan
+## Analisis Kelebihan dan Kekurangan
 ### ✅ Kelebihan
 - **Sederhana dan mudah dipahami**  
   Struktur kode jelas sehingga cocok untuk pembelajaran dasar Python.
