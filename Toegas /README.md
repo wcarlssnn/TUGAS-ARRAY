@@ -53,9 +53,8 @@ Analisis Kelebihan dan Kekurangan
   ## Grafik bar (Min – Max)
   <img width="701" height="567" alt="Screenshot 2026-03-25 115605" src="https://github.com/user-attachments/assets/dddc7692-7b53-423d-b826-1e1030bfc6f0" />
 
-
+-----------------------------------
   
-
   | Proses       | Kompleksitas |
 | ------------ | ------------ |
 | Input data   | O(n)         |
@@ -63,8 +62,7 @@ Analisis Kelebihan dan Kekurangan
 | Rata-rata    | O(n)         |
 | Hitung lulus | O(n)         |
 
-
-
+---------------------------------
 
 ## 💭 Refleksi Pembelajaran
 - Saya memahami cara mengolah data sederhana menggunakan Python, khususnya dengan menggunakan list sebagai tempat penyimpanan data.
