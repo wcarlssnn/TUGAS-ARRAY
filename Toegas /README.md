@@ -42,4 +42,28 @@ Analisis Kelebihan dan Kekurangan
 - Memperbaiki tampilan grafik agar lebih informatif
 
   ## Screenshot hasil eksekusi
+  ## Input Nilai
+  <img width="433" height="295" alt="Screenshot 2026-03-25 114838" src="https://github.com/user-attachments/assets/09162329-8763-4ba3-b9ea-6de76bb8a31e" />
+  ## Output Teks di terminal
+  <img width="719" height="136" alt="Screenshot 2026-03-25 115436" src="https://github.com/user-attachments/assets/876f3686-df31-42f0-b081-f055c0123081" />
+  ## Grafik bar (Min – Max)
+  <img width="701" height="567" alt="Screenshot 2026-03-25 115605" src="https://github.com/user-attachments/assets/dddc7692-7b53-423d-b826-1e1030bfc6f0" />
+
+  | Proses       | Kompleksitas |
+| ------------ | ------------ |
+| Input data   | O(n)         |
+| Max & Min    | O(n)         |
+| Rata-rata    | O(n)         |
+| Hitung lulus | O(n)         |
+
+## 💭 Refleksi Pembelajaran
+- Saya memahami cara mengolah data sederhana menggunakan Python, khususnya dengan menggunakan list sebagai tempat penyimpanan data.
+- Saya belajar menggunakan perulangan (loop) untuk memproses data secara berulang dan lebih efisien.
+- Saya mulai terbiasa memanfaatkan fungsi bawaan Python seperti `max()`, `min()`, dan `sum()` untuk menyederhanakan kode.
+- Saya mendapatkan pengalaman baru dalam membuat visualisasi data menggunakan matplotlib.
+- Saya menyadari bahwa penyajian data dalam bentuk grafik dapat membantu memahami informasi dengan lebih jelas.
+- Program ini membantu saya memahami dasar-dasar logika pemrograman dan alur pengolahan data.
+- Ke depannya, saya ingin mengembangkan program ini agar lebih fleksibel dan memiliki validasi input yang lebih baik.
+
+
   
