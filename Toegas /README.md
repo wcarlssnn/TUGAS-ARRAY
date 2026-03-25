@@ -54,6 +54,10 @@ Array adalah struktur data yang digunakan untuk menyimpan banyak nilai dalam sat
   ## Grafik bar (Min – Max)
   <img width="701" height="567" alt="Screenshot 2026-03-25 115605" src="https://github.com/user-attachments/assets/dddc7692-7b53-423d-b826-1e1030bfc6f0" />
 
+  ## Grafik Data Kelulusan
+  <img width="472" height="498" alt="Screenshot 2026-03-25 122942" src="https://github.com/user-attachments/assets/4baf0f00-9872-4b8c-b4d0-77d24e4f5158" />
+
+
 -----------------------------------
 ## ⚙️ Kompleksitas
 
