@@ -56,13 +56,13 @@ Array adalah struktur data yang digunakan untuk menyimpan banyak nilai dalam sat
 
 -----------------------------------
 ## ⚙️ Kompleksitas
-  
-  | Proses       | Kompleksitas |
-| ------------ | ------------ |
-| Input data   | O(n)         |
-| Max & Min    | O(n)         |
-| Rata-rata    | O(n)         |
-| Hitung lulus | O(n)         |
+
+| Proses               | Operasi yang Dilakukan                | Kompleksitas | Keterangan                          |
+|----------------------|--------------------------------------|-------------|-------------------------------------|
+| Input data           | Menginput 10 nilai ke dalam list     | O(n)        | Dilakukan perulangan sebanyak n data |
+| Max & Min            | Mencari nilai terbesar & terkecil    | O(n)        | Mengecek seluruh elemen dalam list  |
+| Rata-rata            | Menjumlahkan lalu membagi data       | O(n)        | Menggunakan fungsi `sum()`          |
+| Hitung lulus         | Mengecek nilai ≥ 60                  | O(n)        | Iterasi untuk menentukan kelulusan  |
 
 ---------------------------------
 
