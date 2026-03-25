@@ -1,4 +1,4 @@
-1.Penjelasan Array
+## 1.Penjelasan Array
 Array adalah struktur data yang digunakan untuk menyimpan banyak nilai dalam satu variabel.
 
 Analisis Kelebihan dan Kekurangan
